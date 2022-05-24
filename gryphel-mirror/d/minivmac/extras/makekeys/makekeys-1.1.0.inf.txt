@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : makekeys-1.1.0.zip
+size in bytes : 119987
+md5 checksum : 92e878f7a80ff7d89d61c5a36db27d00
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/GKDxxvVBUS1JOVmvyHf4Ops3J4C9EDiiqcXf4ObIXtpuv/f
+a6QIwJnjn3TFyG7QQ+cROq02aXFosbgaQpk2Fk9NUXtaBJJEQzt7CqQoTyaQF1QZ
+BWQKBaS5t56yLiJXANCH6uL5tJ9agPikWAZOCT6hFETdVY/IRYms3XPVtKWBG56T
+-------- END GRY SIGNATURE --------

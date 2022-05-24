@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : setftype-0.1.0.sit.zip
+size in bytes : 15181
+md5 checksum : ca1f77aab468de4f1cbadde3a9379313
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/AKLW9G2zirPw8hicosEmPIFFsUxMUKEoDrv1HXl4TtNrlah
+3x8YKCH2g+qc44T4xuD5Keho90cIkSCz6yn16/+IOGj3uHdmIgH7kaMiikev4xzi
+mdh8QiQ61+Du8KlAKj7mmMmdocBiXtSt0v+v2aD4EfCn0+l+g5hPI0ltqNtGw/HA
+-------- END GRY SIGNATURE --------

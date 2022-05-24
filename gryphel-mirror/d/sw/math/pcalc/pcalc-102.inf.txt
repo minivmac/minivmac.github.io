@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : pcalc-102.hqx
+size in bytes : 135381
+md5 checksum : 1c3965fc86ade83ac1c7015b067f38ce
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/NfQKYvsAcDZCEZE8spZzL+x5wc7E2AEAkGCtW9X65ncOWRw
+Wge7WdUZBGT05bG58+i7ZtvklJFFbFjA/RF82q81+zGXB8DJCnfVU/SG7eQHQQ4i
+FS5Do9sMUMCcoXlBfSB1z8/sb/BtNbrUsIpP+MPTh3tz5YgWyVm/gk/raxGsfSqk
+-------- END GRY SIGNATURE --------

@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : sigwrttl-1.02-oi64.bin.tgz
+size in bytes : 10051
+md5 checksum : 302b903fb0a808d93159faa7e950ad8a
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/Ds0OKsx2j8sxut1HNNz4IojnFa6svwRob9vZSUpM1RW2Ihy
+9RVOKuNShaQEno2nz1XTxRLDF5lJ00NvZdqk2U4mAsTm0SGAv83lmo32xqabixO7
+oDuMDMz5BZsCpT1647yMAZwItDuY6J7hb5+9cf7CDRfMz91vSPpFu69QzkdyJjY4
+-------- END GRY SIGNATURE --------

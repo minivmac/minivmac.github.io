@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : testmnvm-0.1.0.zip
+size in bytes : 41091
+md5 checksum : fb24133897ad170dd04d67780b4285ea
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/GOfzzpBs33hFi9hTsWrc4epHUrIw4rmmG/G9ip7WgNnSVWk
+GfPD0tU7EtuejR30yP7iBo4/xq8vSZhoWJ7fgupHa1irkPpLIvBcU7Dls3Fz13iY
+RVn7sTxs1dOHl2Jza+nUqcw4Y6rfqAwB9Ms7o261FtdTyjyK+ZaTa3D1TnYCcKcL
+-------- END GRY SIGNATURE --------

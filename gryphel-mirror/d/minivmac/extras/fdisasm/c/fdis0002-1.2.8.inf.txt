@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : fdis0002-1.2.8.zip
+size in bytes : 22767
+md5 checksum : bc264523ff71300fa386adf0ff0b3038
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/DXvVA2QVZF7rsjKSQvQD+1JAzy5zVJNi/TB6gzaJx1and9K
+TmCh7lRb+IQwEKrRW6iPJD1MhvgWyU5xvCygbVDCAtXp0KzJNi2zJJ2NSihSC9NU
+3+sUIb2VXgDwOIkK3BBv6lCOUr7RmXIARMph8Jks+hw3bRCR8CSq1+yjJgySSN9v
+-------- END GRY SIGNATURE --------

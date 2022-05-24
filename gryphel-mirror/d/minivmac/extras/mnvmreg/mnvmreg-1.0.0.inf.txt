@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : mnvmreg-1.0.0.zip
+size in bytes : 18589
+md5 checksum : 8ce24f4a9ea518bc563f68218b496988
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/DK45dlvcf5FVDpVam67s5uorgYeAvnrYG8ukfJO/ajorYAe
+8VQirmMcbSLlXIOi6G/0goydXBnxcyqH25uy9xyVwRbWCu8ESAnRktiJfoTUeSMW
+pJVDACli3T6XvnVM1M6qL92ZzbQnhapugRQwKe0+Zmy6CIk9+p3qCCjjb4VAiej3
+-------- END GRY SIGNATURE --------

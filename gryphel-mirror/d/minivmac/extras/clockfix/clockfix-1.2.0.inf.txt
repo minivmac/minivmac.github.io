@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : clockfix-1.2.0.zip
+size in bytes : 38369
+md5 checksum : b9d735c1c3ff5240b7df3bfe53e71c51
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/Le8uYnUsV5Cm24Tc0urD2qHBWEBDhjQLwCJFBBN3QLduWY6
+vNmng0KhCLLC7XF4UlTmmjJZNIqsY5IRu7VzrYw8w8C/hPOYatobTxnuJSLT1F1s
+lanhCnSWl+IVikjKwV4AzYubRMPwrKZemxJ3O1itjTnGdbJOPO2qq8cMY3u7SfQR
+-------- END GRY SIGNATURE --------

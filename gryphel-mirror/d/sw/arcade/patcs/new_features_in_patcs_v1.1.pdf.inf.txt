@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : new_features_in_patcs_v1.1.pdf
+size in bytes : 3382722
+md5 checksum : 3116e6f5a8c7bb5ac964524cb44323ab
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/NYgVtEJaSnHFA9FRg/GSO/J7N1HNHzP8E1HZIxSpbS29YAt
+AL5ALTv6Oo9MbgUQ/QjoD2Xi6uQmK2bllb5fdHbA1LTXyu/AL8tRKR56QnNQ5jCA
+TlMJtmIQr0jlPyvf/ybLxa7DoZcyO0oqUxQ20oNUMx3vkLaTYnjBj2FkNRU2KIUu
+-------- END GRY SIGNATURE --------

@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : fdisasm-1.2.8.zip
+size in bytes : 94883
+md5 checksum : 68588698451c803723c539422ff9ae5e
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/FOtKpERPLKY7hyRpMDX5x40/CafVuSMA5IUY/Vphdamg76h
+zDahUEs6P25TITBzobVWSuyUqKI+r4aOnw430y/9IyhJ94wd1tEGQ40nT+6Iy1vv
+gCJn3kaHoWhFDoRvmTFNqgycrxuzyg3gSqCbg/0LKkOExHj6VfqXsenXZCFeBeT2
+-------- END GRY SIGNATURE --------

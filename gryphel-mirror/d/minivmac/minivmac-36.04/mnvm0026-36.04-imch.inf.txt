@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : mnvm0026-36.04-imch.bin.tgz
+size in bytes : 86172
+md5 checksum : 66539e199938c4e34d5262426af94d19
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/AD1XhCQj/KrGQxvhnp5F/+LdHqoLRqt+huXiDFdZ5KRccfI
+8dWZJUGedlf/kC58sD4VONNR5OSl2/Z16J4sabYbdhZxcq5xfHPfXW1XgvsIkjm+
+93QRAmYFw4s5d0xW5E9uSBZZN8iqJjJQXSrZudZhYNs8MhuZ6EycE6MNwaCh+PIL
+-------- END GRY SIGNATURE --------

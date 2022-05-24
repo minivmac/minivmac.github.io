@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : autoquit-1.1.1.zip
+size in bytes : 15942
+md5 checksum : e453d11903c7e902a0a9fcc1d17fef21
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/J18AwovHBWQJXx7aKfwQRZOcHp/AFrWc28ltCb2qZr8TjcQ
+wrPJXqoy54SlK/GgApk+GeHK68A+B8fDamLQM/1SN+E6vCIkeARxFAesDax6yypL
+p1u79pUkIZcVt4XhujahPHXyGuSFD4uP82zK250e/LasG8dUDj90fSvGBDBmhUPs
+-------- END GRY SIGNATURE --------

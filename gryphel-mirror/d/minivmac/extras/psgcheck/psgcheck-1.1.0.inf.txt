@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : psgcheck-1.1.0.zip
+size in bytes : 116488
+md5 checksum : 0c0c7595afb4c5f80eed669c9579697a
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/LgaxhZQSTBvyr8mVwi/M7TIoh+2d2M6tGAz+sSThEAH0ME2
+oA4JRKVcgzXBkd9xDfj2dEuBHyGMrD8DFylaxkVAc4oQMjPFmqWFFBtvgncgS0nm
+zyt94q1o9Ly8XE1ictjKAYWgBb6b1dEtDPa53ARbh1D5hXwjHVA6zEmcUto68mRc
+-------- END GRY SIGNATURE --------

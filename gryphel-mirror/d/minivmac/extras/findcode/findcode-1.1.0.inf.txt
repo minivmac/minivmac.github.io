@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : findcode-1.1.0.zip
+size in bytes : 82018
+md5 checksum : efba08018ae7cdd01e6e68066f3a2cf9
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/EYNm5xI2fVUQHLo5+bNtBu0n9yNRMtM/Cxt/BDWoJL09xLQ
+Ef1qDmtPJpX3a2MSwAUHNwLEUJt8iVKmdmO/lv47PcmCtEtHhHK/EWhld6tDXWvu
+qgegPOHHvVXkF3i55XUvQJcODrnYCo8Ki1HbHx/ZwkHhqe4RCSqx2Eilqn9HtIOW
+-------- END GRY SIGNATURE --------

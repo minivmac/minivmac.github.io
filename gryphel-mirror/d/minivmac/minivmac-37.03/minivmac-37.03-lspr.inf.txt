@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k4.html
+
+file name : minivmac-37.03-lspr.bin.tgz
+size in bytes : 51510
+md5 checksum : 50183c70ee25f108a442a9070e2ec68e
+
+------- BEGIN GRY SIGNATURE -------
+Gry/nUU60LqH9A2V/JbQmaz1FiAlm3gukcHAHZ9wXembwx/awTOIAlkHWpTwvMXM
+VbLiy/vvAOdP0sV/XBLAjCtDcFkeMIy+WPxncuCaOsb2UhNMbFItEH8St7nAq+ub
+AGWAyPd4BwDpCkzBSPMT84PDe9RLpwOEchHSqqfxb8OO2jO2GB8Rc9MDpfF7hZaA
+-------- END GRY SIGNATURE --------

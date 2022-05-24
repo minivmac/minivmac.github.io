@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : egretrom-1.0.3.zip
+size in bytes : 59564
+md5 checksum : f92391d72c073fc7f6f45dce1addbe11
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/LET1JCqhhuntcWCgrUJbsm14BfArpKNZvz7nJa4Atg8Ww8i
+SIwqb0UzAlRT9bYhBtUVYAJRNCVnOg7Yh/iYMUYTTOOjKGaXsLGtvMTTzxvHIN4S
+UT5qEMrMR4kjiShRgL3GVWXFK8CFfts5SSNz+adjcziiO/pCEpRCGwbGdyVkZ6L4
+-------- END GRY SIGNATURE --------

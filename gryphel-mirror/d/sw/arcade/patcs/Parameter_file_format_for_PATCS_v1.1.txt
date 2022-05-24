@@ -1,0 +1,18 @@
+PATCS Parameter File format for PATCS V1.1
+
+(Refer to V1.2 sheet for details)
+
+Record #        Description
+
+1		ARTCC center name
+2		Airport name 36/18
+3		Airport name 09/27
+4-16		Carrier info
+17		On/off indicators
+18		Levels
+19		start with ....
+20		Macintalk things
+21		Macintalk things
+22		Max planes
+23		Airport locations
+24		Look ahead cycles conflict advisory		

@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : fdplusv2-190630.zip
+size in bytes : 86858
+md5 checksum : c0b8b30b78a0a1fb83a50078160f53d8
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/BdKPwjqcUxGcNaGJRA6jlSoeL7LU8ukpS0vv8tlkLZOEjaw
+Qt+P2uinq7QyIzddvvCJm1ySEcbLhNeM0VmDhseVSWvU3h5EMZD53DysKB6Xn703
+sETgJfJsTnErQRchx6l9zJf8vBQ40Q0t8fVfTE5Rhwy2BtchDU+DpEXHLUOgST6f
+-------- END GRY SIGNATURE --------

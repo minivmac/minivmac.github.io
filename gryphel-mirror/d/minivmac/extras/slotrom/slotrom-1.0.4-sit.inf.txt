@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : slotrom-1.0.4-sit.zip
+size in bytes : 52552
+md5 checksum : 2427ecbc0a443cffcb86a01fc2c1def7
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/L7DQeNRDoJUFJbrROWDDPuCGn7vPZrsHe0O+zBNePNVXWhO
+ogskfe6GCf5/IcWpnLD9Hr+KmrS6Bx2n+McRdrhwF/G7+gP67qJVo87f56plkwys
+sZGEm5GZVyTNLIrFpncWobOXdMNLK6zLt2s4jhFP9IjYRuwla22p/2eNlFlwibL3
+-------- END GRY SIGNATURE --------

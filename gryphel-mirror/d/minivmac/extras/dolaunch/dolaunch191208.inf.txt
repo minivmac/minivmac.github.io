@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : dolaunch191208.zip
+size in bytes : 19296
+md5 checksum : 1cd0757f75de96e1ca7ff6c560db534d
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/GQY26Bocd4iw+oYsZQ+ijFrmddQEPvgvnAxKgHWXtS6MoA0
+bydl6TKV1C5/7d0zW4yd3XBWsezDNR30ZLhFFRn24gvQKqCwqcrWRakz2t+CYvZK
+mu4S4OP+UVYTNBlSP0rddFJ+Kht01tpoI4ZIV/zDZcFz7jhEY45v/WepR4Kd3hYc
+-------- END GRY SIGNATURE --------

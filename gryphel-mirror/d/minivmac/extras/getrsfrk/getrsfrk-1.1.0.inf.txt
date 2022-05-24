@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : getrsfrk-1.1.0.zip
+size in bytes : 58477
+md5 checksum : f40b497c3469464cd0aca2aab22f08ff
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/JVRRrmZr4qJRoDwyk55WhlXpX5un9RokdYBNVP5h/bY/rDY
+evsCooOdxlk+qJS0jHoHwwdpnb9+PefAd23NxaycdrkQI8YKc2od+ZV6hTnKVbTS
+bk453HW740MDihJWMk2Rug9rEIaVqyopuewdiRUZYjQSOk877794tyHlL1cSi402
+-------- END GRY SIGNATURE --------

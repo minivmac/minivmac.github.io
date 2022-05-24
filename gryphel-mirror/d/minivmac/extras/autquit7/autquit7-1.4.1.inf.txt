@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : autquit7-1.4.1.zip
+size in bytes : 52809
+md5 checksum : 296954b3b99ad2ab2e453a28ae63e42a
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/OI4akiCqOl8fsDRGdndRHYU2QqBelEQ5VjUQ1Hx9bJ0XMoq
+7oMOVS9pFFTrr8sCU0xAzVWarB3QO9rUCjtM9mTHDt4mHbdYXBdde0F1PKAsa0GE
+eiMAGo/Wr3bJVa9+KJmB2jaRl570KfNqp4dUCylxa92N0qY4EsWri04Ps1C1vfp9
+-------- END GRY SIGNATURE --------

@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : fdmacii-0.2.2.zip
+size in bytes : 100253
+md5 checksum : 9bb504a156f11531fc763dac3df0f7b7
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/IzCxNFSFacCffO4FYLiEHc+3fe/5GfxRFUKqApmrNCaUH+x
+aiXsCu9htUEy/o9EJuDam4eOBLuyM97FKT2ggcVLGCoqyOqPZvEfAiIA7husWemb
+RSwUpQnSGXtYG3eEZokAzBt7qHhcHTPhAV7Nj8vNNuN2dSvds5JArvV7/YRk5Kvj
+-------- END GRY SIGNATURE --------

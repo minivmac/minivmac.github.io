@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : fdmac128v2-0.4.4.zip
+size in bytes : 50310
+md5 checksum : 508d5d06c0a2bd4c6626cb48a69abe1d
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/N25M6Oac/45W0F9dr6tZt5cGCU3usdOlFBVrAOgevL2t1R9
+yczXyx54M9cIc+AF4eUCpyfrg16XN/EIrPxWA0ILncdLl0+9Sz3ZHvCFEy+ID0Pk
+pnRNkisbw2fLARFUQFKK/sZI6W8Pa3e6cXlxiALtPdcPaCsW3wWsQ5ct3AXGAaR7
+-------- END GRY SIGNATURE --------

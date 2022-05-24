@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : vMac_Retro_Icon.zip
+size in bytes : 34334
+md5 checksum : 2f6209e62ac4cbb0dfc5f340d2402f1f
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/EMSGhuDee51YdR75YDDXFBmkaz5K+fRENEa643ofALa2WVa
+rfzEL5CBU3qoVXriiDmY0Fh5r5KQeu7Hqt9tFHwltXXn+J7zD+B9EVlGvdzan+lk
+7eQhWkH5TWFH/DyMTmb2+4WYPe20KZY3rItoaqYK7F1wAAIxpbIB7YU2w4CIMSew
+-------- END GRY SIGNATURE --------

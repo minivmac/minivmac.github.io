@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : sigchktl-1.02-wx64.bin.zip
+size in bytes : 17194
+md5 checksum : ff7b32cb16763ee0b993d6c0cdaea0fa
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/EK4SdBYh3UZvYaRWDXAetE5F3fjYB1lj1Vyw4r4ahFA9fqI
+1FRhgWNP1UjTXAQlxwPvzH2M9SnxhM1t6Z+o/+Dpq/zx7kWTfsCGblfasB5BUnMZ
+0UU/oPdnvBqrhcLmqidjAlXM8fQE+7TFK8ARp7cAldBmJzVZZ3tq3pox33CXNuZH
+-------- END GRY SIGNATURE --------

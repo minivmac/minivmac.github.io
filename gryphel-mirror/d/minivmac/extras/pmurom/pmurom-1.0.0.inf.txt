@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : pmurom-1.0.0.zip
+size in bytes : 59117
+md5 checksum : 9344ec7c701ecdc25ffdcbe70bcf721b
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/LPZz9hnCrdMYZFAE3bnrCE6fku7GVHl2QlnNOR4gyhWSMCM
+64V/7LMKBZWXzmw6gfyBKLmR3IVlOGGTB8phqIRBpBTo2NEHbS8yb8s65bgxYs6p
+UstJweuLfDpfDOChcq+V+jACzIYnkNol0TjiU63OFOtcY5v9qu9gcmxfASaXgH5j
+-------- END GRY SIGNATURE --------

@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : copyroms-1.1.0-sit.zip
+size in bytes : 31054
+md5 checksum : 51b0a6d5db2bfc6b8a5f325145e9545a
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/A8iP1PCbijkguBfo4T0aQjTCtYeWLnbhYTdO5hlvs0M3N2w
+/wk0hEt2OJ6FvzIeEYtRcurzgEJgt5YDIg0dMXR/BKLm3BjjhTGSqluShF4MyU6D
+EVYPWyCq33lgXP/KuBIy17EKYILtUhBijAz5K/NByX8El+pPFdzyCVSENluAeXAg
+-------- END GRY SIGNATURE --------

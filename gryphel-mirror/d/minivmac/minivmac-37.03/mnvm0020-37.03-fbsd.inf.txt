@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k4.html
+
+file name : mnvm0020-37.03-fbsd.bin.tgz
+size in bytes : 44094
+md5 checksum : 9c49a061cc4ffbb2786e7ec446fbb623
+
+------- BEGIN GRY SIGNATURE -------
+Gry/nUU60LqH9A2V/GAsOc5Mb2mdxsrE6cZwlfw3HJdqdAHyu8HsTAFXO6FiWA5V
+LmcWjkZLYJz/Ap9gcQwy0iWD1GrLNUg7ct25GE5JAzx3jGFFRu9Id/Rssk5/1ejx
+F1k6V7qwwc5oeHPMAPCvgJXVGI2cEfURoYeJYVYFrvBQNZan+mHYBrSIcfYTChqE
+-------- END GRY SIGNATURE --------

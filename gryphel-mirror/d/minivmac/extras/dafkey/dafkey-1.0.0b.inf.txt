@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : dafkey-1.0.0b.zip
+size in bytes : 11881
+md5 checksum : 6856e9b6ee36eccaf88ef1444d581921
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/EMu2geq9Xk5Y7ecucEEC68bNx2daT8YqS1WOE3VmFYHqEGS
+8M0VBXkD5GPPx9kBlSugSMITGMUb+rb93nMMv76qW1+H+aK95UJf9Ef1rbVGn6tp
+UjJgHh0WsS9k97TUzxCmS+R0UjNKm2leIcaS3GEzHIt4a3n6dDkQLTF9VxZZ394N
+-------- END GRY SIGNATURE --------

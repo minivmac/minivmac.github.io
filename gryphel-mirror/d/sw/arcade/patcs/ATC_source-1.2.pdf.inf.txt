@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : ATC_source-1.2.pdf
+size in bytes : 222453
+md5 checksum : 6f6cc0f1a3ee5c21a29d4f3214357573
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/CbFM9lnnkoLc2gpFhNj3T26xZA9044A8UCViRiqf67wc7Tc
+fiZX/d5sC42bsKeyATt41MiaNd0nd/1OyjstTpbbA7/W0ml9IYQgx7zj90yk1AEo
+673UsJdkJdzMm6pTMnMicfOjNtnXQZnxiflvfPQ5t2m5DFz6sZj7j5D7mvBtoyTt
+-------- END GRY SIGNATURE --------

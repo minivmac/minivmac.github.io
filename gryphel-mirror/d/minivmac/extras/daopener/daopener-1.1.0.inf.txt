@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : daopener-1.1.0.zip
+size in bytes : 38962
+md5 checksum : 8334f153c6392a390078db2ea703b19b
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/OM92w+mbSXxBu23HAPISN4ENeTdJ5R9b0axV9D8dtQJgVlY
+okvWV2MAU/trOwhTB3xZTRdpPM9m2oo9LyfPMECAIs8ntVKIr874NKPXFMQboUzJ
+tdz0jygr6mvBtkbmiGlN8zezyqaTTHBrw+sAESA0kC7XckWxuzD91kBoG920Mc/E
+-------- END GRY SIGNATURE --------

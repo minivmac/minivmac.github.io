@@ -1,0 +1,60 @@
+--------- GRY SIGNED TEXT ---------
+
+c84168a8d7df5f1f66270720c48c906c minivmac-36.04.src.tgz
+2e0e3eeca0f16efab5d7e9fc26c5ddbf minivmac-36.04-fb64.bin.tgz
+28dc5f0e57017983709eb509a2e50a6e minivmac-36.04-fbsd.bin.tgz
+6b45fcdcbb5b16769c59f62c6cc8bfb7 minivmac-36.04-imch.bin.tgz
+e5f854d8d0969e6fd23c8ae04570192d minivmac-36.04-larm.bin.tgz
+c63f436ebfc6b2a4105114a3a4b3b9d2 minivmac-36.04-lppc.bin.tgz
+5f4c7a85c0c149a6e6a6e23c2f0e2343 minivmac-36.04-lspr.bin.tgz
+499827d3defee725c1decddc4497e637 minivmac-36.04-lx64.bin.tgz
+4bdd2ffe8ed6a5560f8789798c8530d9 minivmac-36.04-lx86.bin.tgz
+46bad91c173f60f346994ca1793f59ae minivmac-36.04-mach.bin.tgz
+ae0e6e810f46fbdfa5a4624cf974e61c minivmac-36.04-mc64.bin.tgz
+83b22cc6a02e260e42875cec2d984848 minivmac-36.04-nb64.bin.tgz
+5bbc940c9b989922abf712d53c665c10 minivmac-36.04-nbsd.bin.tgz
+ec869bc07abbfde1f7b8fb1d3e623eb8 minivmac-36.04-oi64.bin.tgz
+79b1e0809de936c36cd12cdcb42d5809 minivmac-36.04-oind.bin.tgz
+14b7a2e3c279d8136d76813e0195f604 minivmac-36.04-wcar.bin.zip
+622c324765eacbc95d5bd38532507fe7 minivmac-36.04-wx64.bin.zip
+e8b784960f94f8172659123f52e613b0 minivmac-36.04-wx86.bin.zip
+9c9f783ae896dbd7f445522e2ba780a2 mnvm0020-36.04-fb64.bin.tgz
+a78d7eb59990d6bff8be091367eabf13 mnvm0020-36.04-fbsd.bin.tgz
+aad88324ce34e712a5f51c2bdeb2c5b0 mnvm0020-36.04-imch.bin.tgz
+fc06a4a935a1fcdad59102cc2f0d8df3 mnvm0020-36.04-larm.bin.tgz
+21195d551eca13f1356e43096afdd71c mnvm0020-36.04-lppc.bin.tgz
+003dd219fcf44369c345b989e3e8c351 mnvm0020-36.04-lspr.bin.tgz
+622a0b7bb4dd48a5e873030658a9a128 mnvm0020-36.04-lx64.bin.tgz
+5b1d1f65c0da095aec91ddae5271c615 mnvm0020-36.04-lx86.bin.tgz
+1c4f20fce60f8f5142ed8c323be8bc2f mnvm0020-36.04-mach.bin.tgz
+f188e014ebe98d89838efc97666112e8 mnvm0020-36.04-mc64.bin.tgz
+15e714c843dbcc5d3561e4800a02025a mnvm0020-36.04-nb64.bin.tgz
+b6491f9a13cfdfeaed71cb5923e4893d mnvm0020-36.04-nbsd.bin.tgz
+2e0ec672b9e04e78b95b8d702cf4ee9f mnvm0020-36.04-oi64.bin.tgz
+af8bcb0871c8abe9c6103e3817682e29 mnvm0020-36.04-oind.bin.tgz
+fffcf88cf2fae6e69a49336bcb1d594c mnvm0020-36.04-wcar.bin.zip
+67e3e0020455a4f1788fe93253abdf74 mnvm0020-36.04-wx64.bin.zip
+7000f671dbac39a21103234999ad3978 mnvm0020-36.04-wx86.bin.zip
+98b77ff2f1c983ba09dd28a8ed880892 mnvm0026-36.04-fb64.bin.tgz
+c303402f1b161f8b5603648c1e7eae6a mnvm0026-36.04-fbsd.bin.tgz
+66539e199938c4e34d5262426af94d19 mnvm0026-36.04-imch.bin.tgz
+ac5446bc4b40fe78db75e9689b33f4b6 mnvm0026-36.04-larm.bin.tgz
+5450a475bd6081208dd64363db09dc34 mnvm0026-36.04-lppc.bin.tgz
+bc7598ec5a41f668069d5d0ba3e3f57c mnvm0026-36.04-lspr.bin.tgz
+c008955c2a9a6058d26781e60539b882 mnvm0026-36.04-lx64.bin.tgz
+7b7fb1cb61baa6d21b3336dfe4ffbda0 mnvm0026-36.04-lx86.bin.tgz
+4ca1da1aad5dc112e1db54bc47b1db6f mnvm0026-36.04-mach.bin.tgz
+0ad3b47e67a426369e1a3fa15b0a696f mnvm0026-36.04-mc64.bin.tgz
+ecb8b50dabbb9ab465d9ec4b6553f10b mnvm0026-36.04-nb64.bin.tgz
+da3182d0d6947bee60446ce4ed289d8b mnvm0026-36.04-nbsd.bin.tgz
+61110938ea0f51d30fb4b8fea34924ec mnvm0026-36.04-oi64.bin.tgz
+39586df922ed65888354490d97233529 mnvm0026-36.04-oind.bin.tgz
+17765fce7200857c5fc629ba2281de2a mnvm0026-36.04-wcar.bin.zip
+6852d8c6ef47eeb701febad0fb862d51 mnvm0026-36.04-wx64.bin.zip
+a692dd594a220560105a68e83c331385 mnvm0026-36.04-wx86.bin.zip
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/MpXLBoUGiNZMR/7g7LsakwZ/R3G0WdLxEajw+LpYc0/hdIf
+IHHjTu+tZo3HrUwDScPih9oC6lvfpd8Wz17f1esr7pTFnKPuFvCB0CPd9WtY7Rxz
+8o57+mg+WTtVrxipIF0/5gn0Ti699YtRbs6P+BWNEgYX1iWQouMePrQHljK8czlw
+-------- END GRY SIGNATURE --------

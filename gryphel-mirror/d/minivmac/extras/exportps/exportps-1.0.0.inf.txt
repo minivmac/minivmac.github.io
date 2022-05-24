@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : exportps-1.0.0.zip
+size in bytes : 63772
+md5 checksum : e0d852075cba0de61a93c4121664fd50
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/GBM8LzltA3Sg9qdL58XkjIUevVtqpkcc69eEwODbUIWhJ7r
+y7D6Ou7R9BDtBT7wmDosV8UTkgreodANAus6JbwyUOjyxVkB1Enc/4kMNHuYdpYr
+ljFPxwFfSohwPzGYfFFyxUcLIvTv90BWvmzw3xaLiARs/64+Mg33KSwCTXMt5qzS
+-------- END GRY SIGNATURE --------

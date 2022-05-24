@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : PATCS-1.1.zip
+size in bytes : 94364
+md5 checksum : 7ff2cd7a6dd8fecf3f1b1ceec3e0e22e
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/Cc2SWYwKRezk1AdKtsaDkfB7YroJrg+i+caB+1Bh6dpSiuY
+H6k4iGnNJk1/6p60uzpmBONOCNsbRyhhSF74Wj4YPtarpA/U9pAP9W1iwz7iBOAS
+QAqGhM9hUgZIPb0nqcP65q6hCNEtYspbICzZCajsaRDW8i3pszzzPath2HvBQTQp
+-------- END GRY SIGNATURE --------

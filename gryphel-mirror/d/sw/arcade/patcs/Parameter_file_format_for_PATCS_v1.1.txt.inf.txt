@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : Parameter_file_format_for_PATCS_v1.1.txt
+size in bytes : 365
+md5 checksum : 15836a5a7e7cb1a3687218a9f465bd11
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/JF/ZV9c+p4PCj8oDVCULnZtGWCCgJems7ogsOAgYqFYXc+K
+MSQPj04gIqgVQNMWv63U1BBFq2TotV2MGQSPvlXo3FJONrXU+H7SE/aSNrbd2IeP
+f9Zl+Z5qECvgAvxwsSnUh4pdwRSLzzOP5qKVibJ8Zlbc/KBafV+8LQDjyWqwFXQs
+-------- END GRY SIGNATURE --------

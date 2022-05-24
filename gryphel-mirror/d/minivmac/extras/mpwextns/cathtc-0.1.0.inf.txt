@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : cathtc-0.1.0.zip
+size in bytes : 25447
+md5 checksum : 4eadc3c469699fa8cc660af38615a9f5
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/DmAussd7+8kGKtMoQeeaU1I7TKVM33R0yr9Yzict0vGM+BD
+Hpp51ZCEyTqhoYhWiIZ/3OB/tS+ouCyKubood0qRWO9VJ0rr7yMaIfohVHbhi4mf
+FhRgNQoMtg9zDc0AuwECGxlXjljFxUVrctUItHp8a1F8FO3RExl0b2DvoSipfo7D
+-------- END GRY SIGNATURE --------

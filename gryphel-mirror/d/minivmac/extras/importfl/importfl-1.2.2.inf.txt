@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : importfl-1.2.2.zip
+size in bytes : 63646
+md5 checksum : 6fb3c70b535fe9afb8e60ce5731528c5
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/B9IH9TsIp1qeXG9q04Ho9+CXlBJgh6ucnLq7lOG4u/ZCOdi
+qZvWQJuKGu1cOYGVzX6MDJl7dHdlGsn2KZNFwFyN7fZdFx/LTIk8sJp+PGAJQHMi
+l5lzxfpn+LdPswkVwonBBOt0j00e/UU6P8WIGLnqusBK2dD0oIXyHgOUlcc0zaet
+-------- END GRY SIGNATURE --------

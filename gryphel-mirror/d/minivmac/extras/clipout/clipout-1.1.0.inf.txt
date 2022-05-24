@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : clipout-1.1.0.zip
+size in bytes : 19621
+md5 checksum : 543919d1e9ecf1419d90241089ea7461
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/OQUGJ92SAIScGfbPsYh/a1M7nSP+Gupr4XMzidNyPkoffPP
+QcQ60EG5/MCO7tQOt8bK0Ob6RARnX/NCv57BYdv5RvBTsONDaAbSMMesFu79TAoj
+HAPjVF/YYgN0WIWQViWjNT4yaxwcI+hPNGZtFb/QJDCtL9wIUwDZdtIy45izag82
+-------- END GRY SIGNATURE --------

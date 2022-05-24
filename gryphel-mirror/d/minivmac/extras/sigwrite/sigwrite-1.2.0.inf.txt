@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : sigwrite-1.2.0.zip
+size in bytes : 106587
+md5 checksum : 88431b1a988637870f706027db02cbf4
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/HI3luHGOQyYkGRqxCPKnacNagWkK0umlIshPcjwgtSq0eyW
+5rNJW7nQN3UIwnjWuPSY0kfpKHx/XDrdufaqyaO970C7rlLtdEmgSSg4A989Piw+
+Pt88xRWpHgLxOd1QtWOVt855ufq+Qycn+Or5G/EVorIIfp6j37JJH7sPkHzTocSS
+-------- END GRY SIGNATURE --------

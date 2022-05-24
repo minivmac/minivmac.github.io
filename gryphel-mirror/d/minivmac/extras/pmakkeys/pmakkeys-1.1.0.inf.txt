@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : pmakkeys-1.1.0.zip
+size in bytes : 128743
+md5 checksum : 6318e745d955ac70113a6a753ad7d164
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/JpoQ9C+FHp4BMpX+cR734RIPVGoS47JsYxH0IJRnrbfiWqz
+bCJ4BQ6B1UQuxXQgkLu06qXYSYePucysU6h2eHOVdb1OTL2YZws7XT4WF5hQTGAr
+OTKaFoM08nftFH/S3hdWzko5UQWMoIGNLTXwn8n3Nq4cFQK8Xd3y0tMmLCGaSWSc
+-------- END GRY SIGNATURE --------

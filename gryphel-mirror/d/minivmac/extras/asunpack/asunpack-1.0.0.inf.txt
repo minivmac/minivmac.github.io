@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : asunpack-1.0.0.zip
+size in bytes : 70972
+md5 checksum : 3fc9071e23f2759971b2b8b84e6924e4
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/HhGREFoOA+MBY+g4I9sY380wl5IeUab2feBszITPnQ8jpQC
+ivQ8Bz0/BEY7F1KRC+JPCKxKYKy260/8pFTpPQTY+mC882ydSvFdXKaL4EuHOhmX
+848TjWdLm+yM9Yi6cWQAer/uTouJNiUDJNxZepmkYZJBOKenGF7DlkfUW6TMg3V9
+-------- END GRY SIGNATURE --------

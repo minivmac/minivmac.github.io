@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : cnvtdc42-1.0.0.zip
+size in bytes : 63955
+md5 checksum : d5e40d113d2222ed25448cdd690987a3
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/Ol8uLLqvPs9SCPAVB7fFX5Jh4qq2zcwzacCuGQEncBlzUkq
+7kW1mMmkk2pqS7yr/k7QEQGy5ljhl0b4DzmJG57Lj6NZdJr1QmaiIg39DmtFpmWb
+cSQygA9LwOzwJzTJdWTN09kEmHc/KlMN/UpQ0kpCrvaxwlnjGx1FnH0o1Qy2meF3
+-------- END GRY SIGNATURE --------

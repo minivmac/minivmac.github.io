@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : sethtc-0.1.0.zip
+size in bytes : 28139
+md5 checksum : c17e791c0e1396122d3979e471f4b5b4
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/EVYyi9grJrgr1KbxQAn9IDYl0amcWtCU7T8aNCekKAme1Lc
+OVhlaA9z9CX1KFRkGraH5Rlh0xAyea34UenjoBMMpsz9uvW5Ppce+G997C4Xfj4n
+RAubI68JUdQ5h8rkkWdsegRt4QHZ+P62keC3SW9KpjPdqyyHk82q4hOYORZN2Ma3
+-------- END GRY SIGNATURE --------

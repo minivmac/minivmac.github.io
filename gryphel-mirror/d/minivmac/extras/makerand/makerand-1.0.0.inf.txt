@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : makerand-1.0.0.zip
+size in bytes : 86697
+md5 checksum : 9131c13685ba2a4dda508056a3f1cf9c
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/D4BZ74vI6zNgMRl81wQDf+wbk2S630rAexnpllh6+o75ol6
+sbS0Jz7HG7ha48+3Zar7/E12b4AqVICSpLXt7zWJWSa/voOHaaiuyoxu6rVajQh+
+u8zDovj3134uWL0xSAX2VsKbyqkStJw1beR6uw0CB5tN98mnMLJIjapuTVrMbpc3
+-------- END GRY SIGNATURE --------

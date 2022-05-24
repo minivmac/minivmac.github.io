@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : md5im-1.2.0.zip
+size in bytes : 68289
+md5 checksum : 4346163700a994edca6ac1588ed6d2e8
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/DlI8rwa8Kd5P1sAYBkoM4iIuYASMtfFQsoqvtGjNFJrVS7L
+SsCZU61IYhZNqGIN3H84ZDawC8Cf1eYtofrbLVG/T8CyUKO9Kf2baPv/ZKyiv3ij
+84XBOF7IKykA2l7bu+WYX9VmAKriHzw5+GhAD/uQSVgddgXhl+cOe6dyhQiIBQ+A
+-------- END GRY SIGNATURE --------

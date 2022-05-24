@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : blanks-1.1.zip
+size in bytes : 53894
+md5 checksum : 82c74459cc45f64760c2ffafcdb3b9f3
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/BVk3EAUXbkueqbOvycwO58jkxBEgSVfPk+ctymE5Fzz9SWe
+aW/2MBdwCKlQC2Y4nywPVVeTZTZGl8sCAnZ+ZQPXBZZXWV/pNxhDp/+/m+tMyi5O
+fGvS5a8IAZ4I9UGthDzvNNYo6pxvuZGy/J9Xd0LseWBorsYhLp0r4KPmL2wbemoV
+-------- END GRY SIGNATURE --------

@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : PATCS_user_manual.pdf
+size in bytes : 7084044
+md5 checksum : 73746dbf1b452067540a8d7ed77fc11d
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/HG/P6YqIEGWMvDlkc/9jwopuotFewEJ/wYSL6tOolVt3kye
+wG4TqT66cbraIWA96NTMpvTg0QQAvvtANEVWl425/Xtl1/+TBFUnzXGF/G3hkoHN
+uq76h5+on7Auyx4SbXJbMZPx13WIkt4YMds42ufzi9zAcBZKXj1yHc5ajEYvaAXc
+-------- END GRY SIGNATURE --------

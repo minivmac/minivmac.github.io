@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : testsync-1.2.0.zip
+size in bytes : 35399
+md5 checksum : abca0065eb3634606b83439edbcf85da
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/M30wV5Tauo92Y2H1RuZ6ndEC6rRx+hScFRddTgYhKWaYKGQ
+FrCT2AjBIKVOzqB3pq6Hg6BTFhHOkh3tuPZoDMMj6QS2SCDlGa11f8MsG7ObBnM9
+jv1fmsirgfio9jkKMR/EpTrL1/d7DMSeAT8vGxTyKfe5KP0mbp/Uumg2PvJRlM7d
+-------- END GRY SIGNATURE --------

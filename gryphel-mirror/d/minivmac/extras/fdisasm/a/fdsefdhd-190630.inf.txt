@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : fdsefdhd-190630.zip
+size in bytes : 94447
+md5 checksum : dbc7e53c01217e283fb35e885c64f5d2
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/D4dUL0nXkCxW1sGOHGaArlRP3GWj8VA/NhoSTUIzy2eL5ij
+BzGJtQPmmLJSDW+IGk4ntfQDX45RNnALOtnVxhnu2s6F2vHNgbhS6igPfbUib4pB
+Rfv5o/ofNcd6/MyGzc6FabE635lUr32sCwnvYv2Ms6e/AWv/T13Uid90pLvEkBCR
+-------- END GRY SIGNATURE --------

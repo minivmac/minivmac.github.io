@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : dolaunch-1.2.0.zip
+size in bytes : 34109
+md5 checksum : 27c2da51c786ee6488d3a27f9aaef729
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/LHRwfoFYj7fMsuPaYso+Ek5oN+dSL97yZquIeymtyh6Uvrc
+9bhBd8cg+K1lFR3hnXeYaeWAhQbndd8t5tJ7RRiw2X1cmoIKDmYt0WjNFsPmpO/G
+y6d9gRQOjk/GU9l4plnwa9v6r9KiKIm/e0ofWnBudg8+ABH+EdEZOdUlR5UCERqv
+-------- END GRY SIGNATURE --------

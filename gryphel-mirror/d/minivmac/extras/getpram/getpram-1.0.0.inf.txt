@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : getpram-1.0.0.zip
+size in bytes : 81583
+md5 checksum : b3370fc8570f9afb145d14fa1ec051d7
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/K2L4/qvOZdXCXZVgmqHJc1aGAumQfemP9HfBrVVw4Ib/KP3
+v7dMNU1EUkD8Qx2KEBgxtlEaqH22ZhldK3wPjprAC336iNSsphOsU5wnQ7gjXHGv
+gT4Y8df06CjNdnPTprm8Y3yLNO4L0AJkV903ifL2Llxj1Q1bLRMdPls2K9pj4AH3
+-------- END GRY SIGNATURE --------

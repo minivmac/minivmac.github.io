@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : sigwrttl-1.02-lppc.bin.tgz
+size in bytes : 10174
+md5 checksum : 4a4b72cafdb6f67f03d63d205d5c1f25
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/OyV2QLWK/rWQi2JLuxHqhMM+AGIRiATs61qC0x50T8A3Xoj
+Er1jBrWojwuHC80lNlJ2fejrd9aTQxKuspOQJ4CqJlpgcQ/NKiDAdUJcRHb2Dvmt
+EwmHCaSMJG7WuWdiouBiVKpLaVN7XCOHKH5u4NhPSc0XsCU0+Mrw/Htvj1ZMHyAh
+-------- END GRY SIGNATURE --------

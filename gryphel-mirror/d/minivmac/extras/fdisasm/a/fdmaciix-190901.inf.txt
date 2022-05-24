@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : fdmaciix-190901.zip
+size in bytes : 109577
+md5 checksum : a56757f3fddb63ba1d588b5307141765
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/Nb3ATbNPbPdJbvpvby3dx/aZpVIBQv6HsYzVHIFCQK7y29g
+S4Yi+Gl/v0rc4JaJjPOInkiAaxHYyJJEH6S7hqcManHy39eIEY+fSAmpSBJFPtrp
+s+X55EXh5plK5fB60IZy7IqJUaUdAT0Mh+hQOJCPQerynJeK88SW5H12lNt0SKWM
+-------- END GRY SIGNATURE --------

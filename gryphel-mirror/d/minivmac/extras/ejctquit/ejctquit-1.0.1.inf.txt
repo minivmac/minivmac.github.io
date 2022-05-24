@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : ejctquit-1.0.1.zip
+size in bytes : 41183
+md5 checksum : 87c4e268fe3fd23954e6d64ae39b6b9b
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/LjP50CHjU1raT09LrLCVAdnB6qGkrMOdp6dR9KbMhVR3wBU
+FwymmmH6qv9j9bBzdWGn+LyyFXlYuYRJ6xWqGGc2YEtux1oySR9/2lZ/N48QFX0Z
+hQCbt+acz/5KVHQrbT7NCVe9YHMamKeb9p7/oA8HNW52wjFf1soezm2p5SAX8y3E
+-------- END GRY SIGNATURE --------

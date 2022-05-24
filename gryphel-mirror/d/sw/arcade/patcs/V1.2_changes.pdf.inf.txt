@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : V1.2_changes.pdf
+size in bytes : 1436078
+md5 checksum : 938ed339d7e0895e521a0aed7e74713f
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/GXZFULp5hgcvE12mSOsJavtFmr4PH4iOZlOI81TXjg9+x4b
+Skn4Osh1aMEJ6YwcUjlegeqkQn8fgZ5eL4H1EFZBN69yB9Y9JEQTsfIyjPXgxLpN
+OS6z0kt5vF0zhnXKUhJ06THStyMR8Oh4/6bXqRCfIoJDYk2xMJ5wHrCB5lbLHNXu
+-------- END GRY SIGNATURE --------

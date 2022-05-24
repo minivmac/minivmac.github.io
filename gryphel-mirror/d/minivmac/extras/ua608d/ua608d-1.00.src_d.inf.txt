@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : ua608d-1.00.src_d.zip
+size in bytes : 48299
+md5 checksum : 9e26ddd97255c865ad2f002fc333afff
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/FeIb8+PUMIj8UsS3VO8qzOIPSqPeUJ9qxbz86OqZnPsrb3p
+35unkJk0nXx9Ik90dSpjMex934YJRQGTiAmJvDFpzhGgaiss+UXFjpRdXpTo1Klv
+P87BK3c9hOA6q+h0uhr2z85xS0Od2Cw0bZKEa3dR6oVkq1izlCAQTStjx3JcODiG
+-------- END GRY SIGNATURE --------

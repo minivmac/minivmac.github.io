@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : aspack-1.0.0.zip
+size in bytes : 69338
+md5 checksum : 9b7974a354af4d16efdbc301dad9ba04
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/OmlHijHKlmQMX613PvyLdF5ciOqUbUk7rbE5TTt76dEZpK5
+d+gWtidgY6HAqEJKY9mGle6HHyKAaQeIwdHFlNqEat0Htc3oWjk4ndy/1j4V/Qlu
+OTSiG6jjm39bXX/aeAK3Klkrp2qf6/5LYVYYK7xkfzgWyjLcQeXMBEpYS6tYuxUI
+-------- END GRY SIGNATURE --------

@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : mnvm0020-3.5.8-oind.bin.tgz
+size in bytes : 44225
+md5 checksum : 24b70d18e0ed2bcfeee523d8ae9ecf26
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/M00eh8yTTj5Z4jwGz/cOXZGzz0PasfEHZ1ZcBQv78pxC4Lp
+0fT2A40if/flt7xvjbC8v1ymRPdYOFAaY9G6d8BzYmdSA65/8oS9181s7AX1GBJS
+SvvGT4RlQtub3VAgCwuzc1MkRWipZTU5+Yr9rLIrzG0uefNrl1bVtWdIHe4I6mmP
+-------- END GRY SIGNATURE --------

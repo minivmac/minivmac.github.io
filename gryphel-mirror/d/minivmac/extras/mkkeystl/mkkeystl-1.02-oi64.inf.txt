@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : mkkeystl-1.02-oi64.bin.tgz
+size in bytes : 10062
+md5 checksum : 8c370cc5aa5edd2021fdfda7ab7c4267
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/ECoa7b08/F8O/nhZyq4NMpJwCc3Z+RzfIVyw+3ADgyi0mRs
+8DGnZxJJML8rARPdT+YXeHWlwjtI+nQGyfuLkz+Xn6kEyI4AXZ8DOBeTftcOrjel
+Sfc8zozzokba+9/Nss4VveRHZLwS8JjOsn6m19+BZu7aY6OrNz/APyhAB0qfPSSg
+-------- END GRY SIGNATURE --------

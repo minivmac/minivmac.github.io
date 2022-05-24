@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : binunpk-1.2.0.zip
+size in bytes : 63521
+md5 checksum : 641511e06df0fce5d072f07624d97085
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/Bo5FRucYiU/grzmHlUmIE6ay8paIrdtAgYLb0LTBc54JfWT
+RXkhUNzHrT/UDzXQqwPSRiTcNwgXctbpWURLrw8JIXwfg28UXM6756D5VqkvM9A1
+9z0mAlno9ymuYtj+H68QgqbrzYNutDJff0OvLchYtn9cgwT8gNN+LgIxvpah9o0q
+-------- END GRY SIGNATURE --------

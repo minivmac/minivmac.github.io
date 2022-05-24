@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : psgwrite-1.2.0.zip
+size in bytes : 117431
+md5 checksum : b66c8c36d27247975de97b233ae45273
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/AwGwDZ3SngPUvXRt8QbH7NbGMcKt9fJCAylxYZoSo/17Tuk
+2c4RTl0NDbiuT5yWDCb9qFXHz9zyiXQM9FE5F2sCFvXOKzAJWf6udWNMmbBd33Dd
+AUOCihUrHxLAjq37ezBH1qXrz1Ud0UeIyZnigSfxJugGt/Xc0pNWr6A8dHoGe6AO
+-------- END GRY SIGNATURE --------

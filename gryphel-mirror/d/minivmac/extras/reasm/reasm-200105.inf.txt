@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : reasm-200105.zip
+size in bytes : 128001
+md5 checksum : 7cbe7f5f792054a9d52e7958188bc004
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/D53brOjnC8YchwUzZ4iQdE1UwGJQYobumbCV35PhtYJ+0r2
+QhmNzEC23PA2VG847e9m3QPZOd6WBMRz6KQNb8CteeBxxGFFkXN0qeVM4iGKv+XY
+6N5XLvqqKY8JQe5bRBjwmlFZiT0UXD6I9iPEjAaV8Axp9NfYlvWwwWV+3m6vTlFU
+-------- END GRY SIGNATURE --------

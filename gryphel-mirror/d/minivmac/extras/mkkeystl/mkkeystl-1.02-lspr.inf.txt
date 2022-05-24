@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : mkkeystl-1.02-lspr.bin.tgz
+size in bytes : 9900
+md5 checksum : ad61f8e2c491077f91d47c951863d90e
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/PMilYyn9skZL0JvIeu2jEiXucwBGz4XkaC9OR+W+inNmYqJ
+WQNbfNiT1MACmRYBZ0/XO//2jO92SpwRekxpTdTG02EWDtS9385qaXDT7gQ3J5YB
+DKK6PwnxogTtS1geX6uSq7yRqT3eqmzzUR5p1T/c3elNlLR2p/a4WQMaJZoqBtFq
+-------- END GRY SIGNATURE --------

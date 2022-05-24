@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : mnvm0020-36.04-wcar.bin.zip
+size in bytes : 48275
+md5 checksum : fffcf88cf2fae6e69a49336bcb1d594c
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/C39ztOPniV+jLg8l7cA1VW2WrpD2znLYCohU/iWc38DcpwK
+uK8QBHUwxYF2BgOkq/PXKPui4ZgFAe6Zup6/PH3Zdbwx5n2XV6VKNcGaGEZwhYbO
+QWeFpuKYtQaZ6RASE12S+dMMjKkhS/WHyeV8x9n5YWtqtukij0tyLUMOp6YOHqQY
+-------- END GRY SIGNATURE --------

@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : findres-1.2.5.zip
+size in bytes : 89413
+md5 checksum : 2b7ab8e1511613695a37340e4aec8e96
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/Gz1zOJBV01WD+QlA5XqAfsn2A+RYYqn9myBqW3j/lJrdmDN
+lXKOROUvvXyBXVa7WoGvkPvz7Rog1qtFsn3g1NJZEjfx9vG1P40i3KbO2ZHE+eU4
+AL1lP8o4zzOjn57E9Dlkc0wY93qjcvCbepz1Jcb2Hw4CmUMCRqXT77Ojgp1jTMi1
+-------- END GRY SIGNATURE --------

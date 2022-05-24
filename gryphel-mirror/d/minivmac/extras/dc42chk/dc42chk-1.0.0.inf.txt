@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : dc42chk-1.0.0.zip
+size in bytes : 65221
+md5 checksum : f8d7617bb52894c834768d5f53e3fb62
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/Lj9cA3DQh8pdh2yh8NIlCISl7qhd2Vl89m5zpYaJ68RKbOK
+wJ+Su7VgcwlBXKNIibu+AvXNksNm9cMynAKvoCRb1wTs/6tYjj0F1k2hJr8Vw79S
+hDa6CLwiXFakKY1YHnnK0IqPcTZNo6WAFp1xj4Y2dztC8QkGQmETXrp5l9aE//ZT
+-------- END GRY SIGNATURE --------

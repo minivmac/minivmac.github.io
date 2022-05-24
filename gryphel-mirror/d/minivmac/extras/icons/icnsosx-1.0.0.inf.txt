@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : icnsosx-1.0.0.zip
+size in bytes : 60373
+md5 checksum : 2af006506de7549be14f94317918d59a
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/IvE4tw29Mg8AFkEttRGHEZzcVsGmk675u8LlMqAiiEE713X
+xc7hw5gUXUT95kxTW8dbiyrbYXjXSUBpnSoEER+1uWeGxZR5jIkajqJImcsiB8It
+bQkHmn5Fg1dMQRP/180tjfq/AuzWzwubK2V7ljtmziA1j/Z8YntCA53gakQKySD2
+-------- END GRY SIGNATURE --------

@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : sitpack-1.0.0.zip
+size in bytes : 67856
+md5 checksum : b49f7a412037622ab3121da1e7e8a500
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/Na6eTR9EgnSaoMguBhfFbleoG3pQWmFC0SVABGDvENNitKj
+TEoM/EJkV5buPFZwtc8juZmT+n8FQtt/+J0f/oQ6fpuOPjGZ0U9BmZUWU4GnF92l
+eHKOGevKNYOBWBovKRL0Uub3yGlQgRFBjUkkFWInoKJQvnZ+/2lhqDB9o8xLD9O2
+-------- END GRY SIGNATURE --------

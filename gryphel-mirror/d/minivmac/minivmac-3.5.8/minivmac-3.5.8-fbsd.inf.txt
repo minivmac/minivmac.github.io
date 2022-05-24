@@ -1,0 +1,14 @@
+--------- GRY SIGNED TEXT ---------
+
+signed with
+https://www.gryphel.com/c/keys/k5.html
+
+file name : minivmac-3.5.8-fbsd.bin.tgz
+size in bytes : 45394
+md5 checksum : f3f9b29249d64de69aab4a8bda99f2f5
+
+------- BEGIN GRY SIGNATURE -------
+Gry/4Xa8CFcUzxdN/HHlcbX6LqNEp1a7Izi6hGC5XF0i6Q2Got8MgN2Vd1kxc0M6
+/ETGSVQtbFVBd95z6rtqi5zupUyYX8WX8wJUVcKLfRt79hFTFPfQXEGCe/fyg6pq
+e8IK4j0zYLRi2BYhvYqkFrhNekoZ02TBx1b5XbcygvOo65/vVb0f4Ii64u4Seuw1
+-------- END GRY SIGNATURE --------
